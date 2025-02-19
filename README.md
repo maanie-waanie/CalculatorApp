@@ -1,3 +1,6 @@
 # CalculatorApp
-Ice task 1 PROG
+Ice task 1 
+
+PROG7313
+
 STARSUCKS
